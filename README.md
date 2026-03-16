@@ -110,8 +110,24 @@ for msg in test_messages:
 ```
 
 ## Output:
+DATASET SHAPE :
 
+<img width="613" height="202" alt="image" src="https://github.com/user-attachments/assets/f02ff148-bb3b-4d9a-a868-552c95d7774e" />
+
+CLASS DISTRIBUTION :
+
+<img width="263" height="145" alt="image" src="https://github.com/user-attachments/assets/f9b5cf73-08b3-464c-a44b-540b7e7dc949" />
+
+CLASSIFICATION REPORT :
+
+
+<img width="545" height="197" alt="image" src="https://github.com/user-attachments/assets/37522042-faa0-4a63-849a-161dbe559543" />
+
+SAMPLE :
+
+<img width="692" height="134" alt="image" src="https://github.com/user-attachments/assets/f292f586-a021-46b5-8dff-3ab0f1854542" />
 
 
 ## Result:
+
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
