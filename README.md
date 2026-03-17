@@ -13,7 +13,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 3.Split the dataset using train_test_split.
 4.Calculate Y_Pred and accuracy.
 5.Print all the outputs.
-6.End the Program.
+6.End the Program. 
 ## Program:
 ```
 
